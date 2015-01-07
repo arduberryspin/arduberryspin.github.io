@@ -25,7 +25,7 @@
 
 [![모임후기](/doc/img/m04.png)](doc/after.md)
 
-[gimmick:theme (inverse: false)](cerulean)
+[gimmick:theme](bootstrap)
 [gimmick:ForkMeOnGitHub](https://github.com/biopy/biopy.github.io)
 
 <style>
