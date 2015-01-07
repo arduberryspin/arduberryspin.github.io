@@ -13,7 +13,7 @@
 [![](/doc/img/m02.gif)]()
 
   * ## 부품
-  * [일정](doc/comp/shop.md)
+  * [부품리스트](doc/comp/component.md)
   ----------
   * ## 구매처
   * [아트로](doc/comp/shop.md)
