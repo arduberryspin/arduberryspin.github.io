@@ -12,17 +12,11 @@
   * ## 부품
   * [일정](doc/part3/intro.md)
   ----------
-  * [부품부품](doc/part3/d01.md)
-
-[![](/doc/img/m03.png)]()
-
   * ## 구매처
-  * [일정](doc/part3/intro.md)
-  ----------
   * [아트로?](doc/part3/d01.md)
   * [디바이스마트](doc/part3/d01.md)
 
-[![](/doc/img/m04.png)]()
+[![](/doc/img/m03.png)]()
 
   * ## 공작소
   * [일정](doc/part3/intro.md)
