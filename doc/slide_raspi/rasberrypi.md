@@ -1,7 +1,7 @@
 name: inverse
 layout: true
 ---
-class: title, center, middle, inverse
+class: title, center, middle
 
 라즈베리파이 뿜뿌질? 뿜뿌질!!
 # <span class="sky">R</span>asberry <span class="sky">P</span>i
@@ -10,7 +10,7 @@ class: title, center, middle, inverse
 - [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 # 개요
 - 요즘 이런것들은 만듭니다
@@ -23,7 +23,7 @@ class: middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle,  full-text
 
 오늘의 주인공
 RASPBERRY PI B+
@@ -269,9 +269,9 @@ class: middle, inverse, full-text
 
 ---
 
-## 라즈베리파이로 만든것- 방금그라디오
-
 class: middle, inverse, full-text
+
+## 라즈베리파이로 만든것- 방금그라디오
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/kERdJyF-7RM" frameborder="0" allowfullscreen></iframe>
 
