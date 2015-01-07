@@ -16,16 +16,18 @@
   * [부품리스트](doc/comp/component.md)
   ----------
   * ## 구매처
-  * [아트로](doc/comp/shop.md)
-  * [디바이스마트](doc/comp/shop.md)
+  * [아트로봇](http://www.artrobot.co.kr)
+  * [디바이스마트](http://devicemart.co.kr/mart7/)
+  * [MPU 네이버카페](http://cafe.naver.com/mpucafe/4821)
+  * [국내 부품구입처](https://iae13.wordpress.com/%EA%B5%AD%EB%82%B4-%EB%B6%80%ED%92%88%EA%B5%AC%EC%9E%85%EC%B2%98/)
 
 [![](/doc/img/m03.gif)]()
 
   * ## 공작소
-  * [팹랩-종로](doc/comp/make_place.md)
-  * [3d lab-대학로](doc/comp/make_place.md)
-  * [무한상상실-과천](doc/comp/make_place.md)
-  * [셀프제작소-수원](doc/comp/make_place.md)
+  * [fab lab-종로](https://www.facebook.com/fablabseoul)
+  * [3d lab-대학로](https://www.facebook.com/CKL3DLab)
+  * [무한상상실-과천](https://www.facebook.com/groups/imaking)
+  * [셀프제작소-수원](https://www.facebook.com/selfmakingstudio)
 
 [![모임후기](/doc/img/m04.gif)](doc/after.md)
 
