@@ -3,18 +3,23 @@ layout: true
 ---
 class: title, center, middle, inverse
 
-라즈베리파이 뿜뿌질
+라즈베리파이 뿜뿌질? 뿜뿌질!!
 # <span class="sky">R</span>asberry <span class="sky">P</span>i
 
 .footnote[
 - [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
-
 ---
 class: middle, inverse, full-text
 
-문서지기, 지표방어
-![](img/gp.png)
+# 개요
+- 요즘 이런것들은 만듭니다
+- 왜 뽐뿌인가.. 이론?실습?
+- 다 만들 수 있다.
+- 카피 > 수정 > 내것화 과정.
+- 만든것들(방금그라디오,쑥갓키우기...)
+- 기타. 마인드스톰, 리틀비츠 등
+- 아두베리스핀 모임
 
 ---
 
@@ -63,6 +68,9 @@ http://www.youtube.com/watch?v=staapsj3eRQ
 
 - 이동로봇
 http://www.youtube.com/watch?v=h5xSa-NaZtg
+
+- 리틀비츠
+http://www.doguin.com/#!littlebits/cy2p
 
 이중에 내꺼는? 신입시절 월급으로 만든거?
 
@@ -127,13 +135,17 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
-마인드스톰nxt vs 아두이노 vs 라즈베리파이
+아두이노 vs 라즈베리파이 vs 기타것들
+
+자바 vs 자바스크립트
 
 ---
 
 class: middle, inverse, full-text
 
-표준 입/출력 모니터 마우스, 키보드
+pc? 표준 입/출력 모니터 마우스, 키보드
+
+더하기
 
 모터/센서온.습도/라디오모듈/스피커/디스플레이lcd/초음파/등등.
 
@@ -141,7 +153,7 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
-hello world ~
+라즈베리 첫걸음. hello world ~
 
 led 전구에 불켜기
 
@@ -181,6 +193,8 @@ class: middle, inverse, full-text
 ---
 class: middle, inverse, full-text
 
+## 라즈베리파이 OS 설치
+
 - 라즈베리 os 다운로드
 
 - os 다운로드. 종류 다양 raspbian 를 받자
@@ -192,6 +206,8 @@ class: middle, inverse, full-text
 ---
 
 class: middle, inverse, full-text
+
+## 라즈베리파이 OS 설치
 
 - win32diskimager
 
@@ -227,6 +243,8 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
+## 꼬마전구불껴기 코드
+
 ```python
 sudo apt-get update
 sudo apt-get install python-rpi.gpio
@@ -243,11 +261,15 @@ sudo python
 ---
 class: middle, inverse, full-text
 
+## 라즈베리파이로 만든것들
+
 - 방금그라디오
 
 - 쑥갓키우기
 
 ---
+
+## 라즈베리파이로 만든것- 방금그라디오
 
 class: middle, inverse, full-text
 
@@ -256,6 +278,7 @@ class: middle, inverse, full-text
 http://www.youtube.com/watch?v=kERdJyF-7RM
 ---
 class: center, middle, inverse, full-text
+- 왜만들었나
 
 ".gold[라디오 노래]만 듣고 싶다.<br>
 .gold[광고]는 안듣고 싶은데..<br>
@@ -265,8 +288,22 @@ class: center, middle, inverse, full-text
 .pull-right[-- 노래만 듣고 싶은이]
 
 ---
+class: center, middle, inverse, full-text
+
+## 라즈베리파이로 만든것- 방금그라디오
+
+- 장점
+
+".gold[선곡이짱] 방송국 작가분들 선곡에 감사합니다.<br>
+.gold[광고는 NO!] 전하는 말씀은 듣고 싶지 않아요<br>
+실시간 노래가 술술.. 방금 그 라디오!!
+
+
+---
 
 class: middle, inverse, full-text
+
+## 라즈베리파이로 만든것- 방금그라디오
 
 ```python
 import 라디오모듈
@@ -292,16 +329,11 @@ r.channelt(라디오채널)
 ```
 
 ---
-class: center, middle, inverse, full-text
-
-".gold[선곡이짱] 방송국 작가분들 선곡에 감사합니다.<br>
-.gold[광고는 NO!] 전하는 말씀은 듣고 싶지 않아요<br>
-실시간 노래가 술술.. 방금 그 라디오!!
-
----
 
 class: middle, inverse, full-text
-# 준비물
+
+## 라즈베리파이로 만든것- 방금그라디오
+### 준비물
 
 1. [방금그곡api](http://music.daum.net/onair/timeline)
 1. python3
@@ -378,16 +410,6 @@ class: middle, middle, inverse, full-text
 - 해리포터 마법 지팡이
 
 - 음성 + 동장인식..
-
----
-
-class: middle, middle, inverse, full-text
-
-설문
-
-![](img/research.png)
-
-https://dubu.typeform.com/to/LXbQui
 
 ---
 
