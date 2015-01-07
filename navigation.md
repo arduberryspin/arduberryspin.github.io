@@ -31,7 +31,7 @@
 
 [![모임후기](/doc/img/m04.png)](doc/after.md)
 
-[gimmick:theme](simplex)
+[gimmick:theme](slate)
 [gimmick:ForkMeOnGitHub](https://github.com/biopy/biopy.github.io)
 
 <style>
