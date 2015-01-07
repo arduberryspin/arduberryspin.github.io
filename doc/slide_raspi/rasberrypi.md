@@ -31,7 +31,7 @@ RASPBERRY PI B+
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 - 이런것들을 합니다.
 
@@ -44,7 +44,7 @@ http://youtu.be/D0ydpIZFtuM
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 - 로봇팔을 작동시키는 라즈베리파이와 엑스박스360 컨트롤러!
 http://youtu.be/xvKGxHoBBII
@@ -57,7 +57,7 @@ http://youtu.be/6JuB0zOHGeg
 http://youtu.be/8CA8tWJW8rk
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 - 마이드스톰 동영상
 http://www.youtube.com/watch?v=85kI6oBSXHY
@@ -75,65 +75,65 @@ http://www.doguin.com/#!littlebits/cy2p
 이중에 내꺼는? 신입시절 월급으로 만든거?
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 <img src="https://lh3.googleusercontent.com/-dvhAlXcwPvc/URhhGPQSXPI/AAAAAAAAALI/JQ82Dzj2954/w800-h800/KogMaw_MK-II_%2B435.jpg" alt="img" style="width: 300px;"/>
 <img src="https://lh5.googleusercontent.com/-Gdi4J7wKvxo/URhhIJB09UI/AAAAAAAABrg/vnBw9hSokOk/w980-h735/KogMaw_MK-II_%2B448.jpg" alt="img" style="width: 300px;"/>
 <img src="https://lh3.googleusercontent.com/-KW2yFeLVAkY/URhhH6GHNOI/AAAAAAAAALw/4iz9HlgOOx4/w800-h800/KogMaw_MK-II_%2B447.jpg" alt="img" style="width: 300px;"/>
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 뽐뿌질이 슬금슬금?
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 왜 그 동안 못했을까?
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 왜 하필 요즘?
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 유비쿼터스랑 다른가?
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 오픈! 하드웨어!
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ![](img/burn.jpg)
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 만들자 만들자의 진입장벽
 ![장벽](/doc/img/wall.jpg)
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 진입 장벽은 설정, 설치, 조립  입니다.
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 이제 만들어 봅시다
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 아두이노 vs 라즈베리파이 vs 기타것들
 
@@ -141,7 +141,7 @@ class: middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 pc? 표준 입/출력 모니터 마우스, 키보드
 
@@ -151,7 +151,7 @@ pc? 표준 입/출력 모니터 마우스, 키보드
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 라즈베리 첫걸음. hello world ~
 
@@ -159,13 +159,13 @@ led 전구에 불켜기
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ![재료](http://www.icbank.com/icbank_data/image/shop_product/2014/8AE4D167-FBF2-469D-8190-164240DFE2C0.jpg)
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 + [빵판(브레드 보드)](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005535466)
 
@@ -176,7 +176,7 @@ class: middle, inverse, full-text
 + [케이블](http://www.devicemart.co.kr/1113721)
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 재료 살 수 있는곳
 
@@ -191,7 +191,7 @@ class: middle, inverse, full-text
 - 공구카페  http://cafe.naver.com/mpucafe/4821
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 라즈베리파이 OS 설치
 
@@ -205,7 +205,7 @@ class: middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 라즈베리파이 OS 설치
 
@@ -219,7 +219,7 @@ class: middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 - 라즈베리 b+ GPIO
 
@@ -227,7 +227,7 @@ class: middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ![구조도](img/rasled.png)
 
@@ -235,13 +235,13 @@ class: middle, inverse, full-text
 http://fritzing.org/download/
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ![실물](img/rasledr.jpg)
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 꼬마전구불껴기 코드
 
@@ -259,7 +259,7 @@ sudo python
 ```
 
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 라즈베리파이로 만든것들
 
@@ -269,7 +269,7 @@ class: middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 라즈베리파이로 만든것- 방금그라디오
 
@@ -277,7 +277,7 @@ class: middle, inverse, full-text
 
 http://www.youtube.com/watch?v=kERdJyF-7RM
 ---
-class: center, middle, inverse, full-text
+class: center, middle, full-text
 - 왜만들었나
 
 ".gold[라디오 노래]만 듣고 싶다.<br>
@@ -288,7 +288,7 @@ class: center, middle, inverse, full-text
 .pull-right[-- 노래만 듣고 싶은이]
 
 ---
-class: center, middle, inverse, full-text
+class: center, middle, full-text
 
 ## 라즈베리파이로 만든것- 방금그라디오
 
@@ -301,7 +301,7 @@ class: center, middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 라즈베리파이로 만든것- 방금그라디오
 
@@ -330,7 +330,7 @@ r.channelt(라디오채널)
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ## 라즈베리파이로 만든것- 방금그라디오
 ### 준비물
@@ -346,13 +346,13 @@ class: middle, inverse, full-text
 1. [점퍼케이블](http://www.devicemart.co.kr/32284)
 
 ---
-class: middle, middle, inverse, full-text
+class: middle, middle, full-text
 
  선연결
 - https://github.com/XavierBerger/pcd8544
 - ![](https://camo.githubusercontent.com/7e1fdf3d7a138e6bad58c84361114fbc2cea8ff5/68747470733a2f2f7261772e6769746875622e636f6d2f5861766965724265726765722f706364383534342f6d61737465722f646f632f50434438353434776972696e672e706e67)
 ---
-class:  middle, inverse, full-text
+class:  middle, full-text
 # 작업
 
 - [pcd8544 Python library 설치](https://github.com/XavierBerger/pcd8544)
@@ -368,7 +368,7 @@ class:  middle, inverse, full-text
     sudo pip-3.2 install Pillow
     ```
 ---
-class:  middle, inverse, full-text
+class:  middle, full-text
 
 # code
 - [onair.py source](https://github.com/onairradio/onairradio.github.io/blob/master/onair.py)
@@ -391,7 +391,7 @@ class:  middle, inverse, full-text
         if song['channel']['channelType'] ...
     ```
 ---
-class: middle, inverse, full-text
+class: middle, full-text
 
 - 쑥갓키우기
 
@@ -401,7 +401,7 @@ https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B
 
 ---
 
-class: middle, middle, inverse, full-text
+class: middle, middle, full-text
 
 - 앞으로 만들꺼
 
@@ -413,7 +413,7 @@ class: middle, middle, inverse, full-text
 
 ---
 
-class: middle, inverse, full-text
+class: middle, full-text
 
 ![](img/Raspberry_Pi_B+_top.jpg)
 
