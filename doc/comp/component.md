@@ -39,3 +39,6 @@
 <img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 100px;"/> DIODE-ZENER
 <img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4279_thumb.png" alt="img" style="width: 100px;"/> 7 Segment Display
 
+
+|<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 100px;"/> | aa|
+|<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 100px;"/> | bb|
