@@ -3,7 +3,7 @@
 [![](/doc/img/m01.gif)]()
 
   * ## 발표
-  * [일정](doc/part3/intro.md)
+  * [일정](doc/part1/intro.md)
   ----------
   * [아두이노:EMF Detector](doc/part1/d01.md)
   * [파이썬 기초](doc/part1/d02.md)
@@ -13,21 +13,19 @@
 [![](/doc/img/m02.gif)]()
 
   * ## 부품
-  * [일정](doc/part3/intro.md)
+  * [일정](doc/comp/shop.md)
   ----------
   * ## 구매처
-  * [아트로?](doc/part3/d01.md)
-  * [디바이스마트](doc/part3/d01.md)
+  * [아트로](doc/comp/shop.md)
+  * [디바이스마트](doc/comp/shop.md)
 
 [![](/doc/img/m03.gif)]()
 
   * ## 공작소
-  * [일정](doc/part3/intro.md)
-  ----------
-  * [팹랩-종로](doc/part3/d01.md)
-  * [3d lab-대학로](doc/part3/d01.md)
-  * [무한상상실-과천](doc/part3/d01.md)
-  * [셀프제작소-수원](doc/part3/d01.md)
+  * [팹랩-종로](doc/comp/make_place.md)
+  * [3d lab-대학로](doc/comp/make_place.md)
+  * [무한상상실-과천](doc/comp/make_place.md)
+  * [셀프제작소-수원](doc/comp/make_place.md)
 
 [![모임후기](/doc/img/m04.gif)](doc/after.md)
 
