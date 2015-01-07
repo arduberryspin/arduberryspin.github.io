@@ -15,7 +15,7 @@
   * ## 부품
   * [부품리스트](doc/comp/component.md)
   ----------
-  * ## 구매처
+  * [구매처리스트](doc/comp/shop.md)
   * [아트로봇](http://www.artrobot.co.kr)
   * [디바이스마트](http://devicemart.co.kr/mart7/)
   * [MPU 네이버카페](http://cafe.naver.com/mpucafe/4821)
