@@ -1,7 +1,7 @@
 ## 전자부품 리스트
 
-<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png" alt="img" style="width: 100px;"/> Resistor
-<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4258_thumb.png" alt="img" style="width: 100px;"/> Capacitor
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png" alt="img" style="width: 100px;" title="Resistor" />
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4258_thumb.png" alt="img" style="width: 100px;" title="Capacitor" />
 <img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4259_thumb.png" alt="img" style="width: 100px;"/> Polarized Capacitor
 <img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 100px;"/> Diode
 <img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4257_thumb.png" alt="img" style="width: 100px;"/> Inductor
@@ -40,5 +40,3 @@
 <img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4279_thumb.png" alt="img" style="width: 100px;"/> 7 Segment Display
 
 
-|<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 100px;"/> | aa|
-|<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 100px;"/> | bb|
