@@ -5,7 +5,10 @@
   * ## 발표
   * [일정](doc/part3/intro.md)
   ----------
-  * [발표발표](doc/part3/d01.md)
+  * [아두이노:EMF Detector](doc/part1/d01.md)
+  * [파이썬 기초](doc/part1/d02.md)
+  * [아두이노:온도탐지기/개인PT](doc/part1/d03.md)
+  * [라즈베리파이 : 꼬마전구](doc/part1/d04.md)
 
 [![](/doc/img/m02.png)]()
 
