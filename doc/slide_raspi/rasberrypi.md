@@ -413,6 +413,19 @@ class: middle, middle, full-text
 
 ---
 
+class: middle, middle, full-text
+
+- 아두베리스핀 모임 소개
+- http://arduberryspin.github.io
+
+---
+
+class: middle, middle, full-text
+
+- 라즈베리파이 한 세트 드릴분은..
+
+---
+
 class: middle, full-text
 
 ![](img/Raspberry_Pi_B+_top.jpg)
