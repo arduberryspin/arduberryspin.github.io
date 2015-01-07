@@ -1,4 +1,4 @@
-![대문](doc/img/adu_logo.jpg)
+![대문](doc/img/ad141127.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://arduberryspin.github.io)
 
