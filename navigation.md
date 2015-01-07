@@ -23,7 +23,8 @@
 
 [![](/doc/img/m03.gif)]()
 
-  * ## 공작소
+  * ## 제작소
+  * [제작소](doc/comp/make_place.md)
   * [fab lab-종로](https://www.facebook.com/fablabseoul)
   * [3d lab-대학로](https://www.facebook.com/CKL3DLab)
   * [무한상상실-과천](https://www.facebook.com/groups/imaking)
