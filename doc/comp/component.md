@@ -50,4 +50,4 @@
 |![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png)|74HC74|Dual D-type flip-flop with set and reset; positive edge-trigger|
 |![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png)|74HC86|Quad 2-input XOR gate|
 |![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png)|74HC93|4-bit binary ripple counter|
-|![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png)|74HC132|Quad 2-input NAND Schmitt trigger
+|![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png)|74HC132|Quad 2-input NAND Schmitt trigger|
