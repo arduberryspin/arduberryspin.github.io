@@ -1,67 +1,66 @@
 ## 전자부품 리스트
 
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png" alt="img" style="width: 450px;"/> Resistor
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png) Resistor
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4258_thumb.png" alt="img" style="width: 450px;"/> Capacitor
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4258_thumb.png) Capacitor
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4259_thumb.png" alt="img" style="width: 450px;"/> Polarized Capacitor
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4259_thumb.png) Polarized Capacitor
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 450px;"/> Diode
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png) Diode
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4257_thumb.png" alt="img" style="width: 450px;"/> Inductor
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4257_thumb.png) Inductor
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14368_thumb.png" alt="img" style="width: 450px;"/> Photodiode
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14368_thumb.png) Photodiode
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4262_thumb.png" alt="img" style="width: 450px;"/> NPN Transistor (BJT)
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4262_thumb.png) NPN Transistor (BJT)
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4263_thumb.png" alt="img" style="width: 450px;"/> PNP Transistor (BJT)
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4263_thumb.png) PNP Transistor (BJT)
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_9042_thumb.png" alt="img" style="width: 450px;"/> LED
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_9042_thumb.png) LED
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_9043_thumb.png" alt="img" style="width: 450px;"/> LED RGB
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_9043_thumb.png) LED RGB
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14358_thumb.png" alt="img" style="width: 450px;"/> Light bulb
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14358_thumb.png) Light bulb
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4274_thumb.png" alt="img" style="width: 450px;"/> 9V Battery
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4274_thumb.png) 9V Battery
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14372_thumb.png" alt="img" style="width: 450px;"/> AA Battery
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14372_thumb.png) AA Battery
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14371_thumb.png" alt="img" style="width: 450px;"/> Coin cell 3V
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14371_thumb.png) Coin cell 3V
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_12945_thumb.png" alt="img" style="width: 450px;"/> Multimeter
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_12945_thumb.png) Multimeter
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4256_thumb.png" alt="img" style="width: 450px;"/> Potentiometer
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4256_thumb.png) Potentiometer
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4260_thumb.png" alt="img" style="width: 450px;"/> Pushbutton
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4260_thumb.png) Pushbutton
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4261_thumb.png" alt="img" style="width: 450px;"/> Slideswitch
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4261_thumb.png) Slideswitch
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4264_thumb.png" alt="img" style="width: 450px;"/> nMOS Transistor (MOSFET)
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4264_thumb.png) nMOS Transistor (MOSFET)
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_12944_thumb.png" alt="img" style="width: 450px;"/> pMOS Transistor (MOSFET)
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_12944_thumb.png) pMOS Transistor (MOSFET)
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_45480_thumb.png" alt="img" style="width: 450px;"/> Oscilloscope
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_45480_thumb.png) Oscilloscope
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4286_thumb.png" alt="img" style="width: 450px;"/> Arduino uno
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4286_thumb.png) Arduino uno
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_10318_thumb.png" alt="img" style="width: 450px;"/> Arduino Micro
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_10318_thumb.png) Arduino Micro
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_10930_thumb.png" alt="img" style="width: 450px;"/> ATtiny
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_10930_thumb.png) ATtiny
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4271_thumb.png" alt="img" style="width: 450px;"/> DC Motor
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4271_thumb.png) DC Motor
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4273_thumb.png" alt="img" style="width: 450px;"/> Servo
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4273_thumb.png) Servo
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4285_thumb.png" alt="img" style="width: 450px;"/> Breadboard
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4285_thumb.png) Breadboard
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_12171_thumb.png" alt="img" style="width: 450px;"/> PINHD-1X8
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_12171_thumb.png) PINHD-1X8
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_11938_thumb.png" alt="img" style="width: 450px;"/> USB standard A
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_11938_thumb.png) USB standard A
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14328_thumb.png" alt="img" style="width: 450px;"/> Photoresistor (LDR)
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_14328_thumb.png) Photoresistor (LDR)
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" alt="img" style="width: 450px;"/> DIODE-ZENER
 
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png) DIODE-ZENER
-
-![](https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4279_thumb.png) 7 Segment Display
+<img src="http://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4279_thumb.png" alt="img" style="width: 450px;"/> 7 Segment Display
 
