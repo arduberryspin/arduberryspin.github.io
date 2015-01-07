@@ -2,10 +2,10 @@
 
 
 ![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png" width="30") Resistor
-![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png" width="30")Capacitor
-![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4255_thumb.png" width="30")Polarized Capacitor
-Diode
-Inductor
+![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4258_thumb.png" width="30") Capacitor
+![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4259_thumb.png" width="30") Polarized Capacitor
+![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4266_thumb.png" width="30") Diode
+![](img src="https://s3-us-west-1.amazonaws.com/123d-circuits-symbols/schematic_symbol_4257_thumb.png" width="30") Inductor
 Photodiode
 NPN Transistor (BJT)
 PNP Transistor (BJT)
