@@ -391,6 +391,14 @@ class:  middle, full-text
         if song['channel']['channelType'] ...
     ```
 ---
+class:  middle, full-text
+
+# onair radio api
+
+![](img/onairapi.png)
+
+---
+
 class: middle, full-text
 
 - 쑥갓키우기
