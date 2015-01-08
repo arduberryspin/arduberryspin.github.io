@@ -395,7 +395,7 @@ class:  middle, full-text
 
 # onair radio api
 
-![](img/onairapi.png)
+![](doc/img/onairapi.png)
 
 ---
 
