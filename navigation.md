@@ -1,6 +1,6 @@
-# home
+# [![](/doc/img/m01.gif)]()
 
-[![](/doc/img/m01.gif)]()
+[![](/doc/img/m02.gif)]()
 
   * ## 발표
   * [일정](doc/part1/intro.md)
@@ -10,7 +10,7 @@
   * [아두이노:온도탐지기/개인PT](doc/part1/d03.md)
   * [라즈베리파이 : 꼬마전구](doc/part1/d04.md)
 
-[![](/doc/img/m02.gif)]()
+[![](/doc/img/m03.gif)]()
 
   * ## 부품
   * [부품리스트](doc/comp/component.md)
