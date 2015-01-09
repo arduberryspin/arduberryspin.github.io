@@ -9,7 +9,7 @@
 
 ### 최신글
 - [라즈베리파이 : 꼬마전구-150108](doc/part1/d04.md)
-- [모임후기-141212](doc/after.md)
+- [모임후기-150109](doc/after.md)
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/arduberryspin/)
