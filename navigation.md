@@ -11,6 +11,7 @@
   * [파이썬 기초](doc/part1/d02.md)
   * [아두이노:온도탐지기/개인PT](doc/part1/d03.md)
   * [라즈베리파이 : 꼬마전구](doc/part1/d04.md)
+  * [아두이노 : 모터제어](doc/part1/d05.md)
 
 [![](/doc/img/m03.gif)]()
 
