@@ -8,8 +8,8 @@
 - 장소 : 강남 토즈
 
 ### 최신글
-- [라즈베리파이 : 꼬마전구-150108](doc/part1/d04.md)
-- [모임후기-150109](doc/after.md)
+- [모터제어-150122](doc/part1/d05.md)
+- [모임후기-150125](doc/after.md)
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/arduberryspin/)
