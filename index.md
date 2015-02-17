@@ -1,7 +1,5 @@
 ![대문01](doc/img/ardu01.jpg)
 
-[gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://arduberryspin.github.io)
-
 ### 아두베리스핀
 - part 1 2014년 11월 ~ 2015년 2월
 - 격주 목요일 저녁. 7시 30분~9시 30분/10시
