@@ -1,3 +1,4 @@
+출처 - http://kocoafab.cc/tutorial/view/356http://kocoafab.cc/tutorial/view/356
 /*
  제목		: 조도센서로 어두워지면 LED 켜기
  내용		: 조도센서를 손으로 가려 어둡게 만들면 LED가 켜지도록 해봅시다.
@@ -24,7 +25,7 @@ void setup() {
 void loop() {
   // 조도센서로 부터 측정된 밝기 값을 읽습니다.
   // 조도센서로 부터 입력되어지는 전압의 크기 (0~5V)에 따라 0~1023 범위의 값으로 변환되어 반환합니다.
-  int cdsValue = analogRead(cds);
+  int cdsValue = analogRead(cds) / 10 - 20;
 
   // 측정된 밝기 값를 시리얼 모니터에 출력합니다.
   Serial.print("cds =  ");
