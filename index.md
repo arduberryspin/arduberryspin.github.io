@@ -1,4 +1,4 @@
-![대문01](doc/img/ardu01.jpg)
+![대문01](doc/part3/week02/ros_turtle.jpg)
 
 ### 아두베리스핀
 - part 3 2015년 6월 ~ 2015년 9월
