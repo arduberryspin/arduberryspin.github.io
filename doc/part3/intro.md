@@ -1,4 +1,5 @@
 ## PART 3 일정
+교재 : ROS 로봇 프로그래밍 (http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=6000824500)
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
 |Part III-1    |6/25/2015  |[ROS-1.로봇운영체제 2,3 ROS설치 /개인프로젝트1-PT](d01.md) |[김명철](https://www.facebook.com/bluecode27)  |
