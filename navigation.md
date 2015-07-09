@@ -5,7 +5,7 @@
 [![](/doc/img/m05_ros.gif)]()
 
   * ## 발표
-  * [일정](doc/part3/intro.md)
+  * [파트 3 일정](doc/part3/intro.md)
   ----------
   * [ROS-1.로봇운영체제 2,3 ROS설치 /개인프로젝트1](doc/part3/d01.md)
   * [ROS-4 ROS개념정리](doc/part3/d02.md)
@@ -19,7 +19,7 @@
 [![](/doc/img/m02.gif)]()
 
   * ## 발표
-  * [일정](doc/part1/intro.md)
+  * [파트 1 일정](doc/part1/intro.md)
   ----------
   * [아두이노:EMF Detector](doc/part1/d01.md)
   * [파이썬 기초](doc/part1/d02.md)
