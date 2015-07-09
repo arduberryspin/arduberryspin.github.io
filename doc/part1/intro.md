@@ -1,4 +1,4 @@
-## 일정
+## PART 1 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
 |Part I-1    |11/13/2014  |[아두이노:EMF Detector](d01.md) |[심상진](https://www.facebook.com/sangjin.sim.7)  |
