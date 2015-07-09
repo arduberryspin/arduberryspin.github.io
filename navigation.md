@@ -15,6 +15,18 @@
   * [ROS-8 로봇과 센서](doc/part3/d06.md)
   * [ROS-9 센서정보취득](doc/part3/d07.md)
 
+[![](/doc/img/m02.gif)]()
+
+  * ## 발표
+  * [파트 2 일정](doc/part2/intro.md)
+  ----------
+  * [아두이노:프로토타이핑,개발환경준비/병렬:ch1,2,3](doc/part2/d01.md)
+  * [아두이노:전자회로기초 및 첫걸음/병렬:ch4](doc/part2/d02.md)
+  * [아두이노:4아두이노따라하기/병렬:ch5](doc/part2/d03.md)
+  * [아두이노:5입력/병렬:ch6 parallel python](doc/part2/d04.md)
+  * [아두이노:6출력/병렬:ch7 Celery](doc/part2/d05.md)
+  * [아두이노:7데이터처리](doc/part2/d06.md)
+  * [아두이노:6출력/병렬:ch8 Asynchronously](doc/part2/d07.md)
 
 [![](/doc/img/m02.gif)]()
 
