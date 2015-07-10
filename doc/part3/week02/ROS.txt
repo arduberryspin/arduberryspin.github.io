@@ -1,0 +1,62 @@
+1. 설치
+
+$ wget https://raw.githubusercontent.com/oroca/oroca-ros-pkg/master/ros_indigo_install.sh
+$ sh ros_indigo_install.sh  
+
+
+2. bashrc수정
+$gedit ~/.bashrc  
+
+아래내용 추가
+
+source /opt/ros/indigo/setup.bash
+source ~/catkin_ws/devel/setup.bash
+export ROS_MASTER_URI=http://localhost:11311
+export ROS_HOSTNAME=localhost
+
+
+#set ROS alias command
+
+alias cw='cd ~/catkin_ws'
+alias cs='cd ~/catkin_ws/src'
+alias cm='cd ~/catkin_ws && catkin_make'
+
+
+
+3. 
+
+$ source ~/.bashrc 
+
+
+4.
+$ cd ~/catkin_ws/src
+
+$ catkin_create_pkg my_first_ros_pkg std_msgs roscpp
+
+
+5.package.xml 수정
+
+
+6.CMakeLists.txt수정
+
+
+7.소스코드작성
+$ cd catkin_ws/src/my_first_ros_pkg/src/
+
+$ nano hello_world_node.cpp
+
+
+
+8. 패키지 빌드
+
+
+$ rospack profile
+
+$ cd ~/catkin_ws && catkin_make
+
+
+9.실행
+
+$ roscore
+
+$ rosrun my_first_ros_pkg hello_world_node

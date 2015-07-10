@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+  <name>my_first_ros_pkg</name>
+  <version>0.0.0</version>
+  <description>The my_first_ros_pkg package</description>
+
+  <maintainer email="passionvirus@gmail.com">Yoonseok Pyo</maintainer>
+
+
+  <license>BSD</license>
+  <url type="website">http://oroca.com/oroca/oroca_ros_tutorial.git</url>
+  <url type="repository">http://github.com/oroca/oroca_ros_tutorial.git</url>
+  <author email="passionvirus@gmail.com">Yoonseok Pyo</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+
+  
+  <export>
+  </export>
+</package>
