@@ -1,5 +1,6 @@
 
-![모임후기](img/ros_3th_01.jpg)
+![모임후기](img/ros_3th_01.jpg)  
+
 ![모임후기](img/ros_3th_02.jpg)
 
 ## PART 3-3

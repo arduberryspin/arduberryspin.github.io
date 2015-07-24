@@ -1,5 +1,4 @@
-![대문01](doc/part3/week02/ros_turtle.jpg)
-
+![대문01](doc/img/ros_3th_01.jpg)
 ### 아두베리스핀
 - PART3 ROS 로봇 프로그래밍 / 개인프로젝트 
 - 2015년 6월 ~ 2015년 9월
@@ -8,7 +7,7 @@
 
 ### 최신글
 - [ROS-5 ROS명령어/로보링크 견학 -150723](doc/part3/d03.md)
-- [모임후기-150625](doc/after.md)
+- [모임후기-150723](doc/after.md)
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/arduberryspin/)
