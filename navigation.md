@@ -9,7 +9,7 @@
   ----------
   * [ROS-1.로봇운영체제 2,3 ROS설치 /개인프로젝트1](doc/part3/d01.md)
   * [ROS-4 ROS개념정리](doc/part3/d02.md)
-  * [ROS-5 ROS명령어](doc/part3/d03.md)
+  * [ROS-5 ROS명령어/로보링크 견학](doc/part3/d03.md)
   * [ROS-6 ROS도구](doc/part3/d04.md)
   * [ROS-7 ROS기본프로그래밍](doc/part3/d05.md)
   * [ROS-8 로봇과 센서](doc/part3/d06.md)
