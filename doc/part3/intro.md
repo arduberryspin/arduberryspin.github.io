@@ -9,6 +9,6 @@ http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=6000824500
 |Part III-3    |7/23/2015  |[ROS-5 ROS명령어/로보링크 견학](d03.md) |[김무성](https://www.facebook.com/moodern)  |
 |Part III-4    |8/6/2015  |[ROS-6 ROS도구/개인프로젝트4-중간발표](d04.md) |[심상진](https://www.facebook.com/sangjin.sim.7)  |
 |Part III-5    |8/20/2015  |[ROS-7 ROS기본프로그래밍/개인프로젝트5](d05.md) |[김명철](https://www.facebook.com/bluecode27)  |
-|Part III-6    |9/3/2015  |[ROS-8 로봇과 센서/로보링크 견학](d06.md) |[박세진](https://www.facebook.com/sejin.park.794)  |
+|Part III-6    |9/3/2015  |[ROS-8 로봇과 센서/음성인식/로보링크 견학](d06.md) |[박세진/심상진](https://www.facebook.com/sejin.park.794)  |
 |Part III-7    |9/17/2015  |[ROS-9 센서정보취득/개인프로젝트7-최종발표](d07.md) |[송준호](https://www.facebook.com/Jeremy.Junho.Song)  |
 
