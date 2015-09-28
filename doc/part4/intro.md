@@ -10,7 +10,7 @@ http://it-ebooks.info/book/4735/
 (Unity) 절대강좌! 유니티 5
 http://www.yes24.com/24/goods/18848915
 
-![](http://www.youtube.com/watch?v=m4lc_SfCS4Q)
+[](http://www.youtube.com/watch?v=m4lc_SfCS4Q)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
