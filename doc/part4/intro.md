@@ -1,4 +1,4 @@
-## PART 3 일정
+## PART 4 일정
 [ROS]ROS 로봇 프로그래밍
 http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=6000824500
 
