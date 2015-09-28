@@ -10,6 +10,6 @@ http://www.yes24.com/24/goods/18848915
 
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
-|Part 4-1    |10/1/2015  |[robot 1,2장 소개, Mechanical Design of a Service Robot]() |[김덕태]()  |
-|            |           |[blender 1,2,3장 소개& 개발준비]() |[최윤규]()  |
-|            |           |[Unity 1,2장 소개&개발준비 ]() |[최홍용]()  |
+|Part 4-1    |10/1/2015  |robot 1,2장 소개, Mechanical Design of a Service Robot |[김덕태](https://www.facebook.com/deogtae)  |
+|            |           |blender 1,2,3장 소개& 개발준비 |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
+|            |           |Unity 1,2장 소개&개발준비  |[최홍용](https://www.facebook.com/profile.php?id=100000171922391)  |
