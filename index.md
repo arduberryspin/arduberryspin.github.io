@@ -11,3 +11,6 @@
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/arduberryspin/)
+
+### 일정
+<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/1KzZcM6x-u9a60eu-T2RIOFEoYBGiwte8L49Thxjllxo/edit#gid=1412315552"></iframe>
