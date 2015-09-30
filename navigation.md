@@ -2,7 +2,7 @@
 
 [![Main](/doc/img/m01.gif)](/)
 
-[![PART3](/doc/img/m05_ros.gif)]()
+[![PART4](/doc/img/m05_ros.gif)]()
 
   * ## 발표
   * [파트 4 일정](doc/part4/intro.md)
@@ -17,7 +17,7 @@
   * [1,2장 소개&개발준비]()
 
 
-[![PART3](/doc/img/m05_ros.gif)]()
+[![PART3](/doc/img/m06.gif)]()
 
   * ## 발표
   * [파트 3 일정](doc/part3/intro.md)
@@ -30,7 +30,7 @@
   * [ROS-8 로봇과 센서](doc/part3/d06.md)
   * [ROS-9 센서정보취득](doc/part3/d07.md)
 
-[![PART2](/doc/img/m02.gif)]()
+[![PART2](/doc/img/m06.gif)]()
 
   * ## 발표
   * [파트 2 일정](doc/part2/intro.md)
@@ -43,7 +43,7 @@
   * [아두이노:7데이터처리](doc/part2/d06.md)
   * [아두이노:6출력/병렬:ch8 Asynchronously](doc/part2/d07.md)
 
-[![PART1](/doc/img/m02.gif)]()
+[![PART1](/doc/img/m06.gif)]()
 
   * ## 발표
   * [파트 1 일정](doc/part1/intro.md)
