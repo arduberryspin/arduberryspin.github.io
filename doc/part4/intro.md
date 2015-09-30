@@ -14,12 +14,3 @@ http://www.yes24.com/24/goods/18848915
 |            |           |blender 1,2,3장 소개& 개발준비 |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
 |            |           |Unity 1,2장 소개&개발준비  |[최홍용](https://www.facebook.com/profile.php?id=100000171922391)  |
 
-
-결과물
-[3D modeling] - 보트
-
-![](/doc/img/part4/sloop.png)
-
-[unity] 네크워크 탱크게임
-
-[](https://www.youtube.com/watch?v=CuccsuyVhTM)
