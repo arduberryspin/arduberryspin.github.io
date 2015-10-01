@@ -11,7 +11,7 @@
   * [1,2장 소개, Mechanical Design of a Service Robot](/doc/part4/d01.md)
   ----------
   * ## blender
-  * [1,2,3장 소개& 개발준비]/doc/part4/d01.md()
+  * [1,2,3장 소개& 개발준비](/doc/part4/d01.md()
   ----------
   * ## unity
   * [1,2장 소개&개발준비](/doc/part4/d01.md)
