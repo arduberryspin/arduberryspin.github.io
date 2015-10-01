@@ -1,6 +1,6 @@
 ![대문01](/doc/img/part4/d01_gate.jpg)
 
-### 일정 [google doc](https://docs.google.com/spreadsheets/d/1KzZcM6x-u9a60eu-T2RIOFEoYBGiwte8L49Thxjllxo/edit#gid=1412315552)
+### 일정 [바로가기](https://docs.google.com/spreadsheets/d/1KzZcM6x-u9a60eu-T2RIOFEoYBGiwte8L49Thxjllxo/edit#gid=1412315552)
 
 ### 아두베리스핀
 - PART4 로봇 & 3D 프린터 모델링 & 유니티
