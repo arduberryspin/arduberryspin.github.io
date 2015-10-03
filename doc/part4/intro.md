@@ -11,7 +11,7 @@
 |Part4-1    |10/1/2015  |[robot 1,2장 소개, Mechanical Design of a Service Robot](/doc/part4/d01.md) |[김덕태](https://www.facebook.com/deogtae)  |
 |            |           |[blender 1,2,3장 소개& 개발준비](/doc/part4/d01.md) |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
 |            |           |[Unity 1,2장 소개&개발준비](/doc/part4/d01.md)  |[최홍용](https://www.facebook.com/profile.php?id=100000171922391)  |
-|Part4-2    |10/15/2015  |[robot 3: Working with Robot Simulation Using ROS and Gazebo       | 김무성  |
+|Part4-2    |10/15/2015  |robot 3: Working with Robot Simulation Using ROS and Gazebo       | [김무성](https://www.facebook.com/moodern)  |
 |            |           |유니티 2시간에 끝내기(박스로 슈팅까지) |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
 
 ### 결과물
