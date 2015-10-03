@@ -13,5 +13,5 @@
 |            |           |[Unity 1,2장 소개&개발준비](/doc/part4/d01.md)  |[최홍용](https://www.facebook.com/profile.php?id=100000171922391)  |
 
 ### 결과물
-- unity 아두베리탱크 [web](arduberryspin.github.io/doc/part4/unity/tank_web.html)  [android](https://play.google.com/store/apps/details?id=com.dubu.unity.tank)
-- 3D [ship](http://www.thingiverse.com/thing:1039552)
+- unity 아두베리탱크 [[web]](http://arduberryspin.github.io/doc/part4/unity/tank_web.html)  [[android]](https://play.google.com/store/apps/details?id=com.dubu.unity.tank)
+- 3D [[ship]](http://www.thingiverse.com/thing:1039552)
