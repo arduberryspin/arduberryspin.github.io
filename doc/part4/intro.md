@@ -16,6 +16,6 @@
 |            |           |blender ch02.Getting Comfortable using the 3D View |[박정은](https://www.facebook.com/neuroncities)  |
 
 
-### 결과물
+### 산출물
 - unity 아두베리탱크 [[web]](http://arduberryspin.github.io/doc/part4/unity/tank_web.html)  [[android]](https://play.google.com/store/apps/details?id=com.dubu.unity.tank)
 - 3D [[ship]](http://www.thingiverse.com/thing:1039552)
