@@ -11,7 +11,7 @@
 
 ### 최신글
 - [151015_Unity특강 2시간에 끝내기_박스로 슈팅까지](http://arduberryspin.github.io/#!/doc/part4/d02.md)
-- [151001_후기](/doc/after.md)
+- [151020_후기](/doc/after.md)
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/arduberryspin/)
