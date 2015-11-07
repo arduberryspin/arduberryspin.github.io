@@ -12,8 +12,8 @@
 |            |           |[blender 1,2,3장 소개& 개발준비](/doc/part4/d01.md) |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
 |            |           |[Unity 1,2장 소개&개발준비](/doc/part4/d01.md)  |[최홍용](https://www.facebook.com/profile.php?id=100000171922391)  |
 |Part4-2    |10/15/2015  |[유니티 2시간에 끝내기(박스로 슈팅까지)](/doc/part4/d02.md) |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
-|Part4-3    |10/29/2015  |robot 3: Working with Robot Simulation Using ROS and Gazebo    |[김무성](https://www.facebook.com/moodern) |
-|            |           |blender ch02.Getting Comfortable using the 3D View |[박정은](https://www.facebook.com/neuroncities)  |
+|Part4-3    |10/29/2015  |[robot 3: Working with Robot Simulation Using ROS and Gazebo](/doc/part4/d01.md)|[김무성](https://www.facebook.com/moodern) |
+|            |           |[blender ch02.Getting Comfortable using the 3D View](/doc/part4/d01.md) |[박정은](https://www.facebook.com/neuroncities)  |
 
 
 ### 산출물
