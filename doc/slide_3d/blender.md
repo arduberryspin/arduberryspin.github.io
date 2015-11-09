@@ -5,16 +5,12 @@ class: title, center, middle
 
 unity? blender? ros?
 우리는 어디에서 와서 어디로 가고 있는가
-# <span class="sky">3D</span>modeling <span class="sky">P</span>i
+# <span class="sky">3D</span> modeling
 
 .footnote[
 - http://arduberryspin.github.io/
 - [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
----
-class: middle, full-text
-![](/doc/slide/img/fromto.jpg)
-
 ---
 class: middle, full-text
 
@@ -25,13 +21,13 @@ class: middle, full-text
 - 일단 봅시다 영상
 - 3D 프린터 둘러 보시요.
 ---
+class: middle, full-text
+![](/doc/slide/img/fromto.jpg)
 
+---
 class: middle,  full-text
 
-오늘의 주인공
-RASPBERRY PI B+
-![](img/Raspberry_Pi_B+_top.jpg)
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/vq_R4qDz_wo" frameborder="0" allowfullscreen></iframe>
 ---
 
 class: middle, full-text
