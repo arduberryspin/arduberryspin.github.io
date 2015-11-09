@@ -13,6 +13,9 @@ unity? blender? ros?
 ]
 ---
 class: middle, full-text
+![](/doc/slide/img/fromto.jpg)
+---
+class: middle, full-text
 
 # 개요
 - 현재 위치는? 어디에 있는가?
@@ -20,10 +23,6 @@ class: middle, full-text
 - 결국 무엇을 하고 싶었는가
 - 일단 봅시다 영상
 - 3D 프린터 둘러 보시요.
----
-class: middle, full-text
-![](/doc/slide/img/fromto.jpg)
-
 ---
 class: middle,  full-text
 
