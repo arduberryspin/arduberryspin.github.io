@@ -19,10 +19,12 @@ class: middle, full-text
 
 # 개요
 - 현재 위치는? 어디에 있는가?
-- 왠 3d, 블랜더, 유니티. vr? , ros 로봇? 접접은?
-- 결국 무엇을 하고 싶었는가
-- 일단 봅시다 영상
-- 3D 프린터 둘러 보시요.
+- 왜? 유니티
+- 왜? 블랜더
+-- 4장~ 끝까지
+-- 3d print
+- 가상현실(VR, Virtual Reality)
+
 ---
 class: middle,  full-text
 

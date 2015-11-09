@@ -100,7 +100,7 @@ ros 로봇 만들기 stl 사용
 vr
  시각화 유투브 종합편 영상
 
-4. 3d 가 대세가 될것이가
+4. vr
 
 동영상
 https://www.youtube.com/watch?v=vq_R4qDz_wo
