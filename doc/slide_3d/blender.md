@@ -11,9 +11,11 @@ unity? blender? ros?
 - http://arduberryspin.github.io/
 - [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
+
 ---
 class: middle, full-text
 ![](/doc/slide/img/fromto.jpg)
+
 ---
 class: middle, full-text
 
@@ -31,8 +33,6 @@ class: middle,  full-text
 
 https://www.youtube.com/watch?v=vq_R4qDz_wo
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vq_R4qDz_wo" frameborder="0" allowfullscreen></iframe>
----
-
 
 ---
 class: middle, full-text
