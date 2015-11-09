@@ -45,7 +45,8 @@ http://arduberryspin.github.io/doc/part4/unity/tank_web.html
 점점 화두가 되는 3D 프린터
 thingiverse.com
 shape.com
-makerersn.com
+makersn.com
+대회를 열기도 모델이 진짜 없다. 상받은것들을 볼까요
 
 처음에는 있는 모델만 뽑는다.
 점점 겹치는 모델들.  몇 개 뽑으면 더 뽑을게 없다.
@@ -55,9 +56,16 @@ makerersn.com
 생판부터 만들지 않는데.
 녈려있는 모델들. 바로 뽑히지는 않는다.
 
-] 3d 뽑다 퀄리티 볗로 후가공 먼저 뽑아보는 용도 모델이 없다 유니티 asset 볼까 대회도 열리고
+3d 뽑다 퀄리티 볗로 후가공 먼저 뽑아보는 용도 모델이 없다 유니티 asset 볼까 대회도 열리고
  원숭이도 뽑이봅시다
-] 20 20 20 크게는 코끼리
+
+20 20 20 크게는 코끼리
+실물크기 코끼리
+https://www.youtube.com/watch?v=PJfwfI9xq24
+
+피규어
+http://3d.daara.co.kr/bbs/util_view.php?idx=341
+
 
 프라모델.
 후가공 하면 낫다.
@@ -114,6 +122,12 @@ https://www.youtube.com/watch?v=vq_R4qDz_wo
  로봇도 되겠구나 ros
  무한 확장 일련의 흐름
  우리는 어디서 왔고 어디 있고 어디로 가는가.. 그림 쌩뚱맞은
+
+돌고래 가상현실
+ https://www.facebook.com/groups/arduberryspin/permalink/655945671212073/
+
+아두베리 vr
+https://www.facebook.com/groups/arduberryspin/permalink/653959388077368/
 
 5. 쌩뚱맞은 것들과의 조우
  쌩뚱맞은 모음 언제가 그림도 하지 않을까
