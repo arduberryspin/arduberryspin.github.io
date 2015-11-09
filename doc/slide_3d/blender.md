@@ -3,24 +3,22 @@ layout: true
 ---
 class: title, center, middle
 
-라즈베리파이 뿜뿌질? 뿜뿌질!!
-# <span class="sky">R</span>asberry <span class="sky">P</span>i
+unity? blender? ros?
+# <span class="sky">3D</span>modeling <span class="sky">P</span>i
 
 .footnote[
+- http://arduberryspin.github.io/
 - [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
 ---
 class: middle, full-text
 
 # 개요
-- 이런것들을 만듭니다
-- 왜 뽐뿌인가.. 이론?실습?
-- 다 만들 수 있다.
-- 카피 -> 수정 -> 내것화 과정.
-- 내가 만든것들(방금그라디오,쑥갓키우기...)
-- 기타. 마인드스톰, 리틀비츠 등
-- 아두베리스핀 모임
-
+- 현재 위치는? 어디에 있는가?
+- 왠 3d, 블랜더, 유니티. vr? , ros 로봇? 접접은?
+- 결국 무엇을 하고 싶었는가
+- 일단 봅시다 영상
+- 3D 프린터 둘러 보시요.
 ---
 
 class: middle,  full-text
