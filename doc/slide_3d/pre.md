@@ -28,7 +28,10 @@ https://play.google.com/store/apps/details?id=com.acamp.proto2
 왜? 유니티 화면의 한계 게임 ui다 쉽게하네 그럼 나도 가상현실 근건 엔진 필요
 유니티를 봐야 겠다. 스터디 유니티 콜~~
 유니티 끝판왕
-http://arduberryspin.github.io/#!doc/part4/intro.md
+아두베리탱크 android
+https://play.google.com/store/apps/details?id=com.dubu.unity.tank
+아두베리탱크 web
+http://arduberryspin.github.io/doc/part4/unity/tank_web.html
 
 만들다 보니
 배치, 구성 20
