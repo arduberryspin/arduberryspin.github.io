@@ -59,7 +59,7 @@ class: middle, full-text
 ---
 class: middle, full-text
 
-# 왜? 블렌더
+# 왜? 3D 모델- 블렌더
 - 모델을 중요.
 - 사실 3D 프린터로 먼저 접근
 - 메이커 본능. 금속/레이저컷/3D프린터
@@ -72,11 +72,12 @@ class: middle, full-text
 # 3D 모델
 - thingiverse [링크](thingiverse.com) shapeways [링크](http://www.shapeways.com/) makersn [링크](http://makersn.com)
 - 모델링 대회 수상작 참고 makersn [링크](http://makersn.com)
+- 다른 사람들은 무엇을 만들고 있는가
 
 ---
 class: middle, full-text
 
-# 블렌더!
+# 3D 모델
 - 처음부터 만들지 않습니다.
 - 좋은 모델을 뽑다가 보니, 더 뽑을 모델이 없다.
 - 쬐금 고치고 싶은데
@@ -112,9 +113,17 @@ class: middle, full-text
 4. 블렌더 obj 가공
 
 ---
+
+# 3D 프린팅
+
+![](/doc/slide/img/blender_mk.png)
+
+![](/doc/slide/img/mk.png)
+
+---
 class: middle, full-text
 
-# 블렌더 4장부터 끝까지
+# 3D 모델링 - 블렌더 4장부터 끝까지
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO5yBEHwJ54" frameborder="0" allowfullscreen></iframe>
 
 ---
