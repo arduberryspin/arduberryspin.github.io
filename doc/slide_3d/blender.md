@@ -70,8 +70,8 @@ class: middle, full-text
 class: middle, full-text
 
 # 3D 모델
-- thingiverse [링크](thingiverse.com) shapeways [링크](http://www.shapeways.com/) makersn [링크](makersn.com)
-- 모델링 대회 수상작 참고 makersn [링크](makersn.com)
+- thingiverse [링크](thingiverse.com) shapeways [링크](http://www.shapeways.com/) makersn [링크](http://makersn.com)
+- 모델링 대회 수상작 참고 makersn [링크](http://makersn.com)
 
 ---
 class: middle, full-text
@@ -96,7 +96,7 @@ class: middle, full-text
 class: middle, full-text
 
 # 3D 모델링의 예  - 지형
-- 국립현대 미술관 북한산 ![](/doc/slide/img/hy_mo.jpg)
+- 국립현대미술관 북한산 ![](/doc/slide/img/hy_mo.jpg)
 - 판교  ![](/doc/slide/img/mou.jpg)
 - height map을 이용한 지형생성 [링크](https://www.facebook.com/groups/arduberryspin/permalink/656550147818292/)
 
