@@ -3,7 +3,7 @@ layout: true
 ---
 class: title, center, middle
 
-unity/blender/ros
+unity blender ros
 # <span class="sky">3D</span> modeling
 
 .footnote[
