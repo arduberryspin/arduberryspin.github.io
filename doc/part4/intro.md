@@ -1,7 +1,7 @@
 ## PART 4 일정
 [Robot] Learning Robotics Using Python [링크](http://bookzz.org/book/2555309/f42972)
 
-[3D modeling] Blender 3D Basics [링크](http://it-ebooks.info/book/4735/)  example code [링크](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
+[3D modeling] Blender 3D Basics [링크](http://it-ebooks.info/book/4735/)  example code [다운로드 링크](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
 참고서적 Blender 3D Printing Essentials [링크](http://file.allitebooks.com/20150625/Blender%203D%20Printing%20Essentials.pdf)
 
 (Unity) 절대강좌! 유니티 5  [링크](http://www.yes24.com/24/goods/18848915)
