@@ -90,7 +90,7 @@ class: middle, full-text
 - 유니티게임에도
 - ros 로봇에도
 - 피규어 [링크](http://3d.daara.co.kr/bbs/util_view.php?idx=341)
-- 실물크기 코끼리 [링크](https://www.youtube.com/watch?v=PJfwfI9xq24)
+- 실물크기 코끼리 <iframe width="560" height="315" src="https://www.youtube.com/embed/PJfwfI9xq24" frameborder="0" allowfullscreen></iframe>
 
 ---
 class: middle, full-text
