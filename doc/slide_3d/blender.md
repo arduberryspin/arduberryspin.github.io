@@ -49,6 +49,7 @@ class: middle, full-text
 class: middle, full-text
 
 # 아두베리탱크
+<iframe width="420" height="315" src="https://www.youtube.com/embed/CuccsuyVhTM" frameborder="0" allowfullscreen></iframe>
 - 네트워크 게임도 쉽게!
 - 20명 동접 가능 게임
 - 1 소스 , 멀티 플렛폼 생산
