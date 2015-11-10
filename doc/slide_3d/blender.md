@@ -113,16 +113,6 @@ class: middle, full-text
 
 # 블렌더 4장부터 끝까지
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO5yBEHwJ54" frameborder="0" allowfullscreen></iframe>
-- 모델링 끝판왕 [링크](https://www.facebook.com/groups/arduberryspin/permalink/655957241210916/)
-
----
-class: middle, full-text
-
-# 블렌더 4장부터 끝까지
-- 책은 Blender 3D Basics
-- 예제파일 [링크1](https://www.packtpub.com/books/content/support/10092)
-- 예제파일 100M [구글드라이브](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
-- 진도를 나가 봅시다.
 
 ---
 class: middle, full-text
@@ -131,6 +121,15 @@ class: middle, full-text
 - 시간이 없으니 최종 완성본 부터
 - 모델등의 종합
 - 아일랜드 [링크](https://www.facebook.com/groups/arduberryspin/permalink/655957241210916/)
+
+---
+class: middle, full-text
+
+# 블렌더 4장부터 끝까지
+- 책은 Blender 3D Basics
+- 예제파일 [링크1](https://www.packtpub.com/books/content/support/10092)
+- 예제파일 100M [구글드라이브](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
+- 이제 진도를 나가 봅시다.
 
 ---
 class: middle, full-text
