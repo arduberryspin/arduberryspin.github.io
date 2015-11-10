@@ -149,6 +149,16 @@ class: middle, full-text
 class: middle, full-text
 
 # vr
+
+- 핸드폰의 해상도 한계
+- 평면 디스플레이어의 3D
+- 오큘러스
+- 모델/ 컨텐츠의 부족
+
+---
+class: middle, full-text
+
+# vr
 https://www.youtube.com/watch?v=vq_R4qDz_wo
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vq_R4qDz_wo" frameborder="0" allowfullscreen></iframe>
 
