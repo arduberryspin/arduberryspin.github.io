@@ -103,7 +103,7 @@ class: middle, full-text
 ---
 
 # 3D 모델링의 예  - 지형
-1. height이미지  http://terrain.party/  ![/doc/slide/img/pangyoHeightMap.png]
+1. height이미지  http://terrain.party/  ![](/doc/slide/img/pangyoHeightMap.png)
 2. 포토샵 적절히 가공
 3. 유니티 terrain 생성 및 export obj
 4. 블렌더 obj 가공
