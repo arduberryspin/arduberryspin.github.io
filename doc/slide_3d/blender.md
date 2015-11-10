@@ -118,7 +118,7 @@ class: middle, full-text
 
 ![](/doc/slide/img/blender_mk.png)
 
-![](/doc/slide/img/mk.png)
+![](/doc/slide/img/mk.jpg)
 
 ---
 class: middle, full-text
