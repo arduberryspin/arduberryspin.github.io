@@ -54,6 +54,7 @@ class: middle, full-text
 - 1 소스 , 멀티 플렛폼 생산
 - 아두베리탱크 android [링크](https://play.google.com/store/apps/details?id=com.dubu.unity.tank)
 - 아두베리탱크 web [링크](http://arduberryspin.github.io/doc/part4/unity/tank_web.html)
+- 게임 한 판~
 
 ---
 class: middle, full-text
@@ -85,13 +86,35 @@ class: middle, full-text
 class: middle, full-text
 
 # 3D 모델링의 예
-- 모델링 끝판왕 [링크](https://www.facebook.com/groups/arduberryspin/permalink/655957241210916/)
-- 우리 동네를 뽑을 수 있다. [링크](https://www.facebook.com/groups/arduberryspin/permalink/656550147818292/)
-- 만들어 쓸 수 있다.
+
 - 유니티게임에도
 - ros 로봇에도
 - 피규어 [링크](http://3d.daara.co.kr/bbs/util_view.php?idx=341)
 - 실물크기 코끼리 [링크](https://www.youtube.com/watch?v=PJfwfI9xq24)
+
+---
+class: middle, full-text
+
+# 3D 모델링의 예  - 지형
+- 국립현대 미술관 북한산 ![](/doc/slide/img/hy_mo.jpg)
+- 판교  ![](/doc/slide/img/mou.jpg)
+- height map을 이용한 지형생성 [링크](https://www.facebook.com/groups/arduberryspin/permalink/656550147818292/)
+
+---
+
+# 3D 모델링의 예  - 지형
+1. height이미지  http://terrain.party/  ![/doc/slide/img/pangyoHeightMap.png]
+2. 포토샵 적절히 가공
+3. 유니티 terrain 생성 및 export obj
+4. 블렌더 obj 가공
+
+---
+class: middle, full-text
+
+# 블렌더 4장부터 끝까지
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qO5yBEHwJ54" frameborder="0" allowfullscreen></iframe>
+- 모델링 끝판왕 [링크](https://www.facebook.com/groups/arduberryspin/permalink/655957241210916/)
+
 
 ---
 class: middle, full-text
