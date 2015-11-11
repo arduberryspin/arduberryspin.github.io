@@ -14,6 +14,13 @@ unity blender ros
 ---
 class: middle, full-text
 
+# 들어가기에 앞서
+-  Blender 3D Basics 교재를 준비합니다. [링크](http://it-ebooks.info/book/4735/)
+-  example code 를 다운로드 합니다. 107M  [링크](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
+
+---
+class: middle, full-text
+
 ![](/doc/slide/img/fromto.jpg)
 
 ---
