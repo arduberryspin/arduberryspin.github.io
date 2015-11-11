@@ -38,9 +38,11 @@ class: middle, full-text
 class: middle, full-text
 
 # 왜? 유니티
+ ![](/doc/slide/img/ndgi.png)
+
 - 웹서비스 브라우저의 한계, 높아지는 눈높이
 - 화면개발이 많다.
-- 네똥기 안드로이드게임 ![](/doc/slide/img/ndgi.png)
+- 네똥기 안드로이드게임
 - 유니티!
 
 ---
