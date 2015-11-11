@@ -30,10 +30,9 @@ class: middle, full-text
 -  현재 위치는? 어디에 있는가?
 - 왜? 유니티
 - 왜? 블랜더
--- 4장~ 끝까지
--- 3d print
+- 3d print
+- blender 4장~ 끝까지
 - 가상현실(VR, Virtual Reality)
-- 뜻하지 않은 조우
 
 ---
 class: middle, full-text
