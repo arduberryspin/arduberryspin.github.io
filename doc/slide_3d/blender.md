@@ -80,8 +80,8 @@ class: middle, full-text
 
 # 3D 모델
 - thingiverse [링크](thingiverse.com) shapeways [링크](http://www.shapeways.com/) makersn [링크](http://makersn.com)
-- 모델링 대회 수상작 참고 makersn [링크](http://makersn.com)
 - 다른 사람들은 무엇을 만들고 있는가
+- 모델링 대회 수상작 참고 makersn [링크](http://makersn.com)
 
 ---
 class: middle, full-text
