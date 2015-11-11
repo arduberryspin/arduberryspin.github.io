@@ -154,12 +154,15 @@ class: middle, full-text
 class: middle, full-text
 
 # 블렌더 요약
-- 맨뒤>4장
-- 네모난 배
-- 면이 많은 배
-- 핸들/노/잡다부리
-- 지형
-- 애니메이션
+- 4장
+- 5장 simple boat
+- 6장 oar
+- 7장 plan
+- 8장 sloop 1
+- 9장 sloop 2
+- 10장 terrain
+- 11장 lighting & camera
+- 12장 rendering
 
 ---
 class: middle, full-text
