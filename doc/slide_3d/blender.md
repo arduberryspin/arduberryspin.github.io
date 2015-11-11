@@ -40,7 +40,7 @@ class: middle, full-text
 # 왜? 유니티
 - 웹서비스 브라우저의 한계, 높아지는 눈높이
 - 화면개발이 많다.
-- 네똥기 안드로이드게임 [링크](https://play.google.com/store/apps/details?id=com.acamp.proto2)
+- 네똥기 안드로이드게임 ![](/doc/slide/img/ndgi.png)
 - 유니티!
 
 ---
