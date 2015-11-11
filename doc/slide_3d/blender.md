@@ -32,7 +32,7 @@ class: middle, full-text
 - 왜? 블랜더
 - 3d print
 - blender 4장~ 끝까지
-- 가상현실(VR, Virtual Reality)
+- VR, Virtual Reality
 
 ---
 class: middle, full-text
