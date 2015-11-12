@@ -18,6 +18,9 @@ class: middle, full-text
 -  Blender 3D Basics 교재를 준비합니다.17M [링크](http://it-ebooks.info/book/4735/)
 -  example code 를 다운로드 합니다. 107M  [링크](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
 - 파일용량이 큰 관계로 미리 다운로드해주세요~
+- blender 도 설치해 주세요
+- http://arduberryspin.github.io/doc/part4/unity/tank_web.html
+- 탱크도 움직여 봅니다
 
 ---
 class: middle, full-text
