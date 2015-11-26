@@ -19,7 +19,7 @@
   * ## unity
   * [1,2장 소개&개발준비](/doc/part4/d01.md)
   * [유니티 2시간에 끝내기 박스로 슈팅까지](/doc/part4/d02.md)
-  * [unity rocket](/doc/part4/d05.md)
+  * [unity 물리 모델링 로켓 ](/doc/part4/d05.md)
 
 [![PART3](/doc/img/m06.gif)]()
 
