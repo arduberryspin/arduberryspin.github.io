@@ -14,6 +14,17 @@ unity blender ros
 ---
 class: middle, full-text
 
+# 들어가기에 앞서
+-  Blender 3D Basics 교재를 준비합니다.17M [링크](http://it-ebooks.info/book/4735/)
+-  example code 를 다운로드 합니다. 107M  [링크](https://drive.google.com/open?id=0Bx2HRnvXDiZ5ekZLcXA3UmxEcTQ)
+- 파일용량이 큰 관계로 미리 다운로드해주세요~
+- blender 도 설치해 주세요
+- http://arduberryspin.github.io/doc/part4/unity/tank_web.html
+- 탱크도 움직여 봅니다
+
+---
+class: middle, full-text
+
 ![](/doc/slide/img/fromto.jpg)
 
 ---
@@ -23,18 +34,19 @@ class: middle, full-text
 -  현재 위치는? 어디에 있는가?
 - 왜? 유니티
 - 왜? 블랜더
--- 4장~ 끝까지
--- 3d print
-- 가상현실(VR, Virtual Reality)
-- 뜻하지 않은 조우
+- 3d print
+- blender 4장~ 끝까지
+- VR, Virtual Reality
 
 ---
 class: middle, full-text
 
 # 왜? 유니티
+ ![](/doc/slide/img/ndgi.png)
+
 - 웹서비스 브라우저의 한계, 높아지는 눈높이
 - 화면개발이 많다.
-- 네똥기 안드로이드게임 [링크](https://play.google.com/store/apps/details?id=com.acamp.proto2)
+- 네똥기 안드로이드게임
 - 유니티!
 
 ---
@@ -72,8 +84,8 @@ class: middle, full-text
 
 # 3D 모델
 - thingiverse [링크](thingiverse.com) shapeways [링크](http://www.shapeways.com/) makersn [링크](http://makersn.com)
-- 모델링 대회 수상작 참고 makersn [링크](http://makersn.com)
 - 다른 사람들은 무엇을 만들고 있는가
+- 모델링 대회 수상작 참고 makersn [링크](http://makersn.com)
 
 ---
 class: middle, full-text
@@ -148,12 +160,15 @@ class: middle, full-text
 class: middle, full-text
 
 # 블렌더 요약
-- 맨뒤>4장
-- 네모난 배
-- 면이 많은 배
-- 핸들/노/잡다부리
-- 지형
-- 애니메이션
+- 4장
+- 5장 simple boat
+- 6장 oar
+- 7장 plan
+- 8장 sloop 1
+- 9장 sloop 2
+- 10장 terrain
+- 11장 lighting & camera
+- 12장 rendering
 
 ---
 class: middle, full-text
