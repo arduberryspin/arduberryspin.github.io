@@ -172,7 +172,7 @@ class: middle, full-text
 https://www.youtube.com/watch?v=vq_R4qDz_wo
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vq_R4qDz_wo" frameborder="0" allowfullscreen></iframe>
 
-- 아두베리vr [링크](https://www.facebook.com/groups/arduberryspin/permalink/653959388077368/)
+- 아두베리VR [링크](https://www.facebook.com/groups/arduberryspin/permalink/653959388077368/)
 
 ---
 class: middle, full-text
