@@ -15,10 +15,9 @@
 |Part4-3    |10/29/2015  |[robot 3: Working with Robot Simulation Using ROS and Gazebo](/doc/part4/d03.md)|[김무성](https://www.facebook.com/moodern) |
 |            |           |[blender ch03.Controlling the Lamp, the Camera, and Animating Objects](/doc/part4/d03.md) |[박정은](https://www.facebook.com/neuroncities)  |
 |Part4-4    |11/12/2015  |[blender ch04-끝까지  & 3D print](/doc/part4/d04.md) |[곽두환](https://www.facebook.com/kozazz) |
-|Part4-5    |11/26/2015  |robot (Robot) 5: Working with Robotic Actuators and Wheel Encoders |[김무성](https://www.facebook.com/moodern) |
-|           |            |Unity 슈팅마무리와 가상 로봇 모델링 |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
+|Part4-5    |11/26/2015  |[Unity 물리 모델링 로켓](/doc/part4/d05.md) |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
+|Part4-6    |12/10/2015  |robot (Robot) 5: Working with Robotic Actuators and Wheel Encoders |[김무성](https://www.facebook.com/moodern) |
 |           |            |놀러온) unreal 소개 |[최윤규](https://www.facebook.com/yunkyu.choi.56)  |
-|Part4-6    |12/10/2015  |(Robot) 6: Working with Robotic Sensors | |
 
 ### 산출물
 - unity 아두베리탱크 [[web]](http://arduberryspin.github.io/doc/part4/unity/tank_web.html)  [[android]](https://play.google.com/store/apps/details?id=com.dubu.unity.tank)
